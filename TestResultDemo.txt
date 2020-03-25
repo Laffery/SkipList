@@ -1,0 +1,564 @@
+test is starting .....
+key 1 unluckily can't grow!
+The list is empty!
+key 1 is not in list
+key 10 unluckily can't grow!
+key 15 unluckily can't grow!
+first insert!
+
+insert :24; randlv: 8
+key 24 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 35 unluckily can't grow!
+key 8 unluckily can't grow!
+
+insert :33; randlv: 1
+key 33 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+33 :  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+
+insert :6; randlv: 2
+key 6 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+6 :  2  1
+24 :  8  7  6  5  4  3  2  1
+33 :  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 14 unluckily can't grow!
+
+insert :28; randlv: 2
+key 28 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+6 :  2  1 
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+33 :  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+
+insert :0; randlv: 3
+key 0 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+6 :  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+33 :  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 29 unluckily can't grow!
+
+insert :13; randlv: 3
+key 13 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+6 :  2  1
+13 :  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+33 :  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 37 unluckily can't grow!
+
+insert :12; randlv: 1
+key 12 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1
+6 :  2  1 
+12 :  1
+13 :  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+33 :  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 12 unluckily can't grow!
+
+insert :5; randlv: 2
+key 5 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+0 :  3  2  1
+5 :  2  1
+6 :  2  1
+12 :  1
+13 :  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+33 :  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 7 unluckily can't grow!
+key 9 unluckily can't grow!  
+key 3 unluckily can't grow!  
+
+insert :21; randlv: 5        
+key 21 successfully insert!  
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+5 :  2  1 
+6 :  2  1 
+12 :  1 
+13 :  3  2  1 
+21 :  5  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1 
+33 :  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1  
+
+
+insert :30; randlv: 1
+key 30 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+5 :  2  1
+6 :  2  1
+12 :  1
+13 :  3  2  1
+21 :  5  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1 
+33 :  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 29 unluckily can't grow!
+key 3 unluckily can't grow!
+key 12 unluckily can't grow!
+
+insert :37; randlv: 4
+key 37 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1
+5 :  2  1
+6 :  2  1 
+12 :  1
+13 :  3  2  1
+21 :  5  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1
+33 :  1
+37 :  4  3  2  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 5 unluckily can't grow!
+
+insert :7; randlv: 1
+key 7 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1
+5 :  2  1 
+6 :  2  1
+7 :  1
+12 :  1
+13 :  3  2  1
+21 :  5  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1 
+33 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 17 unluckily can't grow!
+
+insert :23; randlv: 4
+key 23 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+5 :  2  1 
+6 :  2  1
+7 :  1
+12 :  1 
+13 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1 
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 16 unluckily can't grow!
+
+insert :20; randlv: 3
+key 20 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1
+5 :  2  1 
+6 :  2  1
+7 :  1
+12 :  1
+13 :  3  2  1 
+20 :  3  2  1
+21 :  5  4  3  2  1 
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1 
+30 :  1
+33 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+
+insert :9; randlv: 1
+key 9 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+0 :  3  2  1 
+5 :  2  1
+6 :  2  1
+7 :  1
+9 :  1
+12 :  1
+13 :  3  2  1
+20 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 34 unluckily can't grow!
+
+insert :35; randlv: 1
+key 35 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1
+5 :  2  1
+6 :  2  1 
+7 :  1
+9 :  1
+12 :  1
+13 :  3  2  1
+20 :  3  2  1
+21 :  5  4  3  2  1 
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1
+33 :  1 
+35 :  1 
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+
+insert :10; randlv: 1
+key 10 successfully insert!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+0 :  3  2  1 
+5 :  2  1
+6 :  2  1
+7 :  1
+9 :  1
+10 :  1
+12 :  1
+13 :  3  2  1
+20 :  3  2  1 
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1 
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 17 unluckily can't grow!
+key 11 unluckily can't grow!
+key 2 unluckily can't grow!
+key 39 unluckily can't grow!
+0 has already existed!
+***********remove test***********
+
+
+hight is :3
+key 0 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+5 :  2  1
+6 :  2  1
+7 :  1
+9 :  1
+10 :  1
+12 :  1 
+13 :  3  2  1
+20 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1
+33 :  1 
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 1 does not exist!
+key 2 does not exist!
+key 3 does not exist!
+key 4 does not exist!
+hight is :2
+key 5 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+6 :  2  1
+7 :  1
+9 :  1
+10 :  1
+12 :  1
+13 :  3  2  1 
+20 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1 
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :2
+key 6 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+7 :  1
+9 :  1
+10 :  1
+12 :  1
+13 :  3  2  1
+20 :  3  2  1
+21 :  5  4  3  2  1 
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :1
+key 7 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+9 :  1 
+10 :  1
+12 :  1
+13 :  3  2  1
+20 :  3  2  1
+21 :  5  4  3  2  1 
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 8 does not exist!
+hight is :1
+key 9 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+10 :  1
+12 :  1
+13 :  3  2  1 
+20 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :1
+key 10 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+12 :  1
+13 :  3  2  1
+20 :  3  2  1 
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 11 does not exist!
+hight is :1
+key 12 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+13 :  3  2  1
+20 :  3  2  1 
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1 
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :3
+key 13 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+20 :  3  2  1
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1 
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 14 does not exist!
+key 15 does not exist!
+key 16 does not exist!
+key 17 does not exist!
+key 18 does not exist!
+key 19 does not exist!
+hight is :3
+key 20 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+21 :  5  4  3  2  1
+23 :  4  3  2  1
+24 :  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :5
+key 21 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+23 :  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1 
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+key 22 does not exist!
+hight is :4
+key 23 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+24 :  8  7  6  5  4  3  2  1
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+
+hight is :8
+key 24 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+28 :  2  1
+30 :  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 25 does not exist!
+key 26 does not exist!
+key 27 does not exist!
+hight is :2
+key 28 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1 
+30 :  1
+33 :  1
+35 :  1 
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 29 does not exist!
+hight is :1
+key 30 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+33 :  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 31 does not exist!
+key 32 does not exist!
+hight is :1
+key 33 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+35 :  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 34 does not exist!
+hight is :1
+key 35 Delete Successly!
+*******SkipListDisplay*******
+-10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+37 :  4  3  2  1
+10000 :  20  19  18  17  16  15  14  13  12  11  10  9  8  7  6  5  4  3  2  1
+
+key 36 does not exist!
+hight is :4
+key 37 Delete Successly!
+The list is empty!
+
+The list is empty!
+The list is empty!
+The list is empty!
+test is finished ....
